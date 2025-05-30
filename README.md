@@ -2,7 +2,7 @@
 
 <h1 align="center">🙌 Welcome, I'm Akbar Ilham 🦈</h1>
 <h3 align="center">📲 An Mobile Developer, UI/UX Designer, & Junior Web Developer 👾</h3>
-<h4 align="center">🏝️ East Java, Indonesian 🇮🇩</h4>
+<h4 align="center">I'm a passionate developer who loves creating amazing things with code! Currently based in Indonesia 🇮🇩, I enjoy working on various projects and learning new technologies.</h4>
 
 <!--
 **AkbarIlham20st/AkbarIlham20st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
