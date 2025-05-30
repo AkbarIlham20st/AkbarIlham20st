@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+<img src="https://github.com/AkbarIlham20st/AkbarIlham20st/blob/main/assets/gumba2.gif" width="100%">
 
 <h1 align="center">🙌 Welcome, I'm Akbar Ilham 🦈</h1>
 <h3 align="center">📲 An Mobile Developer, UI/UX Designer, & Junior Web Developer 👾</h3>
