@@ -1,4 +1,8 @@
-## Hi there 👋
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+
+<h1 align="center">🙌 Welcome, I'm Akbar Ilham 🦈</h1>
+<h3 align="center">📲 An Mobile Developer, UI/UX Designer, & Junior Web Developer 👾</h3>
+<h4 align="center">🏝️ East Java, Indonesian 🇮🇩</h4>
 
 <!--
 **AkbarIlham20st/AkbarIlham20st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
