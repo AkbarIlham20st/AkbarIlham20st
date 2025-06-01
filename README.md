@@ -101,5 +101,5 @@ I'm a passionate Mobile Developer,UI/UX Designer, and Junior Web Developer from 
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AkbarIlham20st/AkbarIlham20st/main/assets/divider/poseidon-divider.svg" alt="Poseidon Divider" width="100%"/>
+<img src="https://raw.githubusercontent.com/AkbarIlham20st/AkbarIlham20st/main/assets/divider/shark-divider.svg" alt="Poseidon Divider" width="100%"/>
 </div>
