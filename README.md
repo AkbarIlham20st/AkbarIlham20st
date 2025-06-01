@@ -1,12 +1,13 @@
 # Hi there! 👋 I'm Akbar Ilham
 
-## 🎧 Playlist Favorit Saya di Spotify
+| 🎧 Playlist Spotify Favorit | 📈 Statistik GitHub |
+| -------------------------- | ------------------- |
+| [![Spotify](https://img.shields.io/badge/Spotify-Open%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2K6uxeAFD7PtKrwecDT4Ds) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushsuthar&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Piyush's github stats" /></a> |
 
-[![Spotify](https://img.shields.io/badge/Spotify-Listen%20Now-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/2K6uxeAFD7PtKrwecDT4Ds)
+| 📊 Bahasa Teratas |
+| ------------------ |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsuthar&layout=compact&theme=vue&hide_border=true" /></a> |
 
-<div align="center">
-  <img src="https://github.com/AkbarIlham20st/AkbarIlham20st/blob/main/assets/gumba2.gif" width="100%" alt="Gumba Animation"/>
-</div>
 
 ## 🚀 About Me
 
