@@ -6,6 +6,10 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
   </a>
 
+<div align="center">
+  <img src="https://github.com/AkbarIlham20st/AkbarIlham20st/blob/main/assets/gumba2.gif" width="200" height="200" alt="Gumba Animation"/>
+</div>
+
 ## 🚀 About Me
 
 I'm a passionate Mobile Developer,UI/UX Designer, and Junior Web Developer from Indonesian.
