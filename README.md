@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h1>🦈 I'm Akbar Ilham 🌟</h1>
+<h1>Welcome, Akbar is here</h1>
 </div>
 
 🎶 Currently Listening
