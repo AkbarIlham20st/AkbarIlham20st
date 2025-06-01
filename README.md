@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h1>Hi there! I'm Akbar Ilham</h1>
+<h1>🦈 Hi there! I'm Akbar Ilham 🌟</h1>
 </div>
 
 🎶 Currently Listening
@@ -50,9 +50,7 @@ I'm a passionate Mobile Developer,UI/UX Designer, and Junior Web Developer from 
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkbarIlham20st&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarIlham20st&layout=compact&theme=radical&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkbarIlham20st&show_icons=true&theme=radical&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarIlham20st&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -97,7 +95,7 @@ I'm a passionate Mobile Developer,UI/UX Designer, and Junior Web Developer from 
 **Thanks for visiting my profile! 😊**
 
 <div align="center">
-  <img src="https://github.com/AkbarIlham20st/AkbarIlham20st/blob/main/assets/gumba.gif" width="150" height="150" alt="Goodbye Gumba"/>
+  <img src="https://github.com/AkbarIlham20st/AkbarIlham20st/blob/main/assets/gumbay.gif" width="100%" alt="Goodbye Gumba"/>
 </div>
 
 </div>
