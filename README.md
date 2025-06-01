@@ -1,20 +1,106 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+<div align="center">
+<h1>Hi there! I'm Akbar Ilham</h1>
+</div>
 
-<h1 align="center">🙌 Welcome, I'm Akbar Ilham 🦈</h1>
-<h3 align="center">📲 An Mobile Developer, UI/UX Designer, & Junior Web Developer 👾</h3>
-<h4 align="center">I'm a passionate developer who loves creating amazing things with code! Currently based in Indonesia 🇮🇩, I enjoy working on various projects and learning new technologies.</h4>
+🎶 Currently Listening
+<div align="center"
+  <a href="https://spotify-github-profile.bear20th.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
+  </a>
+</div>
+<div align="center">
 
-<!--
-**AkbarIlham20st/AkbarIlham20st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+🔱 ～ 🧜‍♀️ ～ 🌊 ～ ✨ ～ 🐋 ～ 🔱 ～ 🧜‍♀️ ～ 🌊 ～ ✨ ～ 🐋 ～ 🔱 ～ 🧜‍♀️ ～ 🌊 ～ ✨ 
+---
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github.com/AkbarIlham20st/AkbarIlham20st/blob/main/assets/gumba2.gif" width="100%" alt="Gumba Animation"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate Mobile Developer,UI/UX Designer, and Junior Web Developer from Indonesian.
+
+- 🌱 I'm currently learning **Advanced Flutter, Web Developer, and React**
+- 💬 Ask me about **Flutter, UI/UX Design, or Mobile Development!**
+- 📫 How to reach me: **akbarilham1097@gmail.com**
+- ⚡ Motto: **Eat Mie Ayam if u got depressed with ur problem.**
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+### UI/UX Design
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkbarIlham20st&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarIlham20st&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AkbarIlham20st&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkbarIlham20st&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=AkbarIlham20st&repo=admin_bicopi&theme=radical&hide_border=true)](https://github.com/AkbarIlham20st/admin_bicopi)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=AkbarIlham20st&repo=tugas&theme=radical&hide_border=true)](https://github.com/AkbarIlham20st/tugas)
+
+</div>
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=AkbarIlham20st&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/AkbarIlham20st?label=Follow&style=social)](https://github.com/AkbarIlham20st)
+
+**Thanks for visiting my profile! 😊**
+
+<div align="center">
+  <img src="https://github.com/AkbarIlham20st/AkbarIlham20st/blob/main/assets/gumba.gif" width="150" height="150" alt="Goodbye Gumba"/>
+</div>
+
+
+</div>

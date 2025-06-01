@@ -1,0 +1,118 @@
+<svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient untuk laut -->
+    <linearGradient id="oceanGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f4c75;stop-opacity:1" />
+      <stop offset="25%" style="stop-color:#3282b8;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#00a8cc;stop-opacity:1" />
+      <stop offset="75%" style="stop-color:#3282b8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f4c75;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Gradient untuk trisula -->
+    <linearGradient id="tridentGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffd700;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ffed4e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffc107;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Efek gelombang animasi -->
+    <pattern id="wavePattern" x="0" y="0" width="60" height="20" patternUnits="userSpaceOnUse">
+      <path d="M0,10 Q15,0 30,10 T60,10" stroke="#4fb3d9" stroke-width="1" fill="none" opacity="0.5">
+        <animateTransform 
+          attributeName="transform" 
+          type="translate" 
+          values="0,0;-60,0;0,0" 
+          dur="4s" 
+          repeatCount="indefinite"/>
+      </path>
+    </pattern>
+  </defs>
+  
+  <!-- Background laut -->
+  <rect width="100%" height="120" fill="url(#oceanGradient)"/>
+  
+  <!-- Pola gelombang animasi -->
+  <rect width="100%" height="120" fill="url(#wavePattern)"/>
+  
+  <!-- Gelombang besar di bagian bawah -->
+  <path d="M0,80 Q150,60 300,80 T600,80 T900,80 T1200,80 L1200,120 L0,120 Z" 
+        fill="#0a3d5c" opacity="0.8">
+    <animateTransform 
+      attributeName="transform" 
+      type="translate" 
+      values="0,0;-20,0;0,0" 
+      dur="6s" 
+      repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Gelombang medium -->
+  <path d="M0,70 Q100,50 200,70 T400,70 T600,70 T800,70 T1000,70 T1200,70 L1200,120 L0,120 Z" 
+        fill="#1e5f7e" opacity="0.6">
+    <animateTransform 
+      attributeName="transform" 
+      type="translate" 
+      values="0,0;15,0;0,0" 
+      dur="8s" 
+      repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Trisula Poseidon di tengah -->
+  <g transform="translate(580, 20)">
+    <!-- Batang trisula -->
+    <rect x="18" y="30" width="4" height="70" fill="url(#tridentGradient)"/>
+    
+    <!-- Mata trisula -->
+    <path d="M5,30 L10,10 L15,30 M15,30 L20,5 L25,30 M25,30 L30,10 L35,30" 
+          stroke="url(#tridentGradient)" 
+          stroke-width="3" 
+          fill="none" 
+          stroke-linecap="round">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+    </path>
+    
+    <!-- Dekorasi trisula -->
+    <circle cx="20" cy="35" r="3" fill="url(#tridentGradient)" opacity="0.8"/>
+  </g>
+  
+  <!-- Gelombang kecil untuk detail -->
+  <path d="M0,90 Q50,85 100,90 T200,90 T300,90 T400,90 T500,90 T600,90 T700,90 T800,90 T900,90 T1000,90 T1100,90 T1200,90" 
+        stroke="#4fb3d9" 
+        stroke-width="2" 
+        fill="none" 
+        opacity="0.7">
+    <animateTransform 
+      attributeName="transform" 
+      type="translate" 
+      values="0,0;-30,0;0,0" 
+      dur="5s" 
+      repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Bubble effects -->
+  <circle cx="200" cy="40" r="2" fill="#87ceeb" opacity="0.6">
+    <animate attributeName="cy" values="40;20;40" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.2;0.6" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="400" cy="50" r="1.5" fill="#87ceeb" opacity="0.5">
+    <animate attributeName="cy" values="50;30;50" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="800" cy="45" r="2.5" fill="#87ceeb" opacity="0.4">
+    <animate attributeName="cy" values="45;15;45" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.1;0.4" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="1000" cy="35" r="1.8" fill="#87ceeb" opacity="0.5">
+    <animate attributeName="cy" values="35;15;35" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Teks Poseidon (opsional) -->
+  <text x="600" y="110" font-family="serif" font-size="12" fill="#ffd700" text-anchor="middle" opacity="0.8">
+    ⚡ Gawr Gura ⚡
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
+  </text>
+</svg>
