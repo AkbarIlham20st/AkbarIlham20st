@@ -1,0 +1,53 @@
+<svg width="800" height="40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:transparent;stop-opacity:0" />
+      <stop offset="15%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="85%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:transparent;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient id="shimmerLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:rgba(255,255,255,0);stop-opacity:0" />
+      <stop offset="50%" style="stop-color:rgba(255,255,255,1);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgba(255,255,255,0);stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Main line -->
+  <rect x="80" y="18" width="640" height="4" rx="2" fill="url(#lineGradient)"/>
+  
+  <!-- Shimmer effect on line -->
+  <rect x="80" y="18" width="640" height="4" rx="2" fill="url(#shimmerLine)" opacity="0.3">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="-640,0;640,0;-640,0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Left shark emoji -->
+  <text x="40" y="30" text-anchor="middle" font-size="24" opacity="0.8">🦈</text>
+  
+  <!-- Right shark emoji -->
+  <text x="760" y="30" text-anchor="middle" font-size="24" opacity="0.8">🦈</text>
+  
+  <!-- Decorative dots -->
+  <g fill="#0066cc" opacity="0.6">
+    <circle cx="120" cy="20" r="1">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="140" cy="20" r="1">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="160" cy="20" r="1">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="640" cy="20" r="1">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" begin="0.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="660" cy="20" r="1">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="680" cy="20" r="1">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

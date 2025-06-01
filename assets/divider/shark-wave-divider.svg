@@ -1,0 +1,33 @@
+<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="oceanGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#00aaff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0066cc;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:rgba(255,255,255,0);stop-opacity:0" />
+      <stop offset="50%" style="stop-color:rgba(255,255,255,0.8);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgba(255,255,255,0);stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Ocean background -->
+  <rect width="800" height="120" fill="url(#oceanGradient)"/>
+  
+  <!-- Wave paths -->
+  <path d="M0,60 Q200,20 400,60 T800,60 L800,120 L0,120 Z" fill="rgba(255,255,255,0.1)"/>
+  <path d="M0,70 Q150,40 300,70 T600,70 T800,70 L800,120 L0,120 Z" fill="rgba(255,255,255,0.05)"/>
+  
+  <!-- Shimmer effect -->
+  <rect width="800" height="120" fill="url(#shimmer)" opacity="0.3">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="-800,0;800,0;-800,0" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Text -->
+  <text x="400" y="70" text-anchor="middle" fill="white" font-family="Arial, sans-serif" 
+        font-size="24" font-weight="bold" style="text-shadow: 2px 2px 4px rgba(0,0,0,0.5)">
+    🦈 GAWR GURA 🦈
+  </text>
+</svg>

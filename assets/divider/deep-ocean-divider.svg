@@ -1,0 +1,71 @@
+<svg width="800" height="150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="depthGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00aaff;stop-opacity:0.8" />
+      <stop offset="30%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="70%" style="stop-color:#004080;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#002040;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient id="lightRay" cx="50%" cy="0%" r="60%">
+      <stop offset="0%" style="stop-color:rgba(255,255,255,0.6);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgba(255,255,255,0);stop-opacity:0" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Ocean depth background -->
+  <rect width="800" height="150" fill="url(#depthGradient)"/>
+  
+  <!-- Light rays from surface -->
+  <polygon points="300,0 320,0 350,150 280,150" fill="url(#lightRay)" opacity="0.3"/>
+  <polygon points="450,0 470,0 500,150 420,150" fill="url(#lightRay)" opacity="0.2"/>
+  <polygon points="500,0 520,0 550,150 480,150" fill="url(#lightRay)" opacity="0.4"/>
+  
+  <!-- Floating particles -->
+  <circle cx="100" cy="40" r="2" fill="rgba(255,255,255,0.6)">
+    <animate attributeName="cy" values="40;45;40" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.3;0.6" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="680" cy="90" r="1.5" fill="rgba(255,255,255,0.4)">
+    <animate attributeName="cy" values="90;95;90" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="680;685;680" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="200" cy="120" r="1" fill="rgba(255,255,255,0.5)">
+    <animate attributeName="cy" values="120;125;120" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Seaweed silhouettes -->
+  <g opacity="0.3">
+    <path d="M50,150 Q45,120 50,100 Q55,80 50,60 Q45,40 50,20" 
+          stroke="#004080" stroke-width="3" fill="none">
+      <animate attributeName="d" 
+               values="M50,150 Q45,120 50,100 Q55,80 50,60 Q45,40 50,20;
+                       M50,150 Q55,120 50,100 Q45,80 50,60 Q55,40 50,20;
+                       M50,150 Q45,120 50,100 Q55,80 50,60 Q45,40 50,20" 
+               dur="4s" repeatCount="indefinite"/>
+    </path>
+    
+    <path d="M750,150 Q755,110 750,80 Q745,50 750,30" 
+          stroke="#004080" stroke-width="2" fill="none">
+      <animate attributeName="d" 
+               values="M750,150 Q755,110 750,80 Q745,50 750,30;
+                       M750,150 Q745,110 750,80 Q755,50 750,30;
+                       M750,150 Q755,110 750,80 Q745,50 750,30" 
+               dur="6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  
+  <!-- Central title area
+  <rect x="300" y="60" width="200" height="30" rx="15" 
+        fill="rgba(0,102,204,0.8)" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+  
+  <text x="400" y="80" text-anchor="middle" fill="white" font-family="Arial, sans-serif" 
+        font-size="16" font-weight="bold" style="text-shadow: 1px 1px 2px rgba(0,0,0,0.8)">
+    🌊 DEEP OCEAN 🌊
+  </text> -->
+  
+  <!-- Bottom wave decoration -->
+  <path d="M0,130 Q200,120 400,130 T800,130 L800,150 L0,150 Z" 
+        fill="rgba(0,34,64,0.5)" opacity="0.7"/>
+</svg>
