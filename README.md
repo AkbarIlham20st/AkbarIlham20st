@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h1>Welcome, Akbar is here</h1>
+<h2>Welcome, Akbar is here</h2>
 </div>
 
 🎶 Currently Listening
