@@ -15,8 +15,6 @@ I'm a passionate Mobile Developer,UI/UX Designer, and Junior Web Developer from 
 
 ## 🛠️ Technologies & Tools
 
-![Technologies](https://github.com/AkbarIlham20st/AkbarIlham20st/blob/main/assets/tech-stack.png)
-
 ### Programming Languages
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
