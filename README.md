@@ -1,13 +1,10 @@
 # Hi there! 👋 I'm Akbar Ilham
 
-| 🎧 Playlist Spotify Favorit | 📈 Statistik GitHub |
-| -------------------------- | ------------------- |
-| [![Spotify](https://img.shields.io/badge/Spotify-Open%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2K6uxeAFD7PtKrwecDT4Ds) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushsuthar&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Piyush's github stats" /></a> |
+  <summary>🎶 Currently Listening</summary>
 
-| 📊 Bahasa Teratas |
-| ------------------ |
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsuthar&layout=compact&theme=vue&hide_border=true" /></a> |
-
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
+  </a>
 
 ## 🚀 About Me
 
