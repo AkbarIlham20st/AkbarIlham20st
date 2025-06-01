@@ -1,17 +1,18 @@
 # Hi there! 👋 I'm Akbar Ilham
----
+
 🎶 Currently Listening
 
   <a href="https://spotify-github-profile.bear20th.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
   </a>
----
+
 <div align="center">
 
-🔱 ～ 🧜‍♀️ ～ 🌊 ～ ✨ ～ 🐋 ～ 🔱 ～ 🧜‍♀️ ～ 🌊 ～ ✨ ～ 🐋 ～ 🔱 ～ 🧜‍♀️ ～ 🌊 ～ ✨ ～ 🐋 
-
-</div>
 ---
+🔱 ～ 🧜‍♀️ ～ 🌊 ～ ✨ ～ 🐋 ～ 🔱 ～ 🧜‍♀️ ～ 🌊 ～ ✨ ～ 🐋 ～ 🔱 ～ 🧜‍♀️ ～ 🌊 ～ ✨ ～ 🐋 
+---
+</div>
+
 <div align="center">
   <img src="https://github.com/AkbarIlham20st/AkbarIlham20st/blob/main/assets/gumba2.gif" width="100%" alt="Gumba Animation"/>
 </div>
