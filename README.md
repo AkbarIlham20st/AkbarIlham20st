@@ -7,7 +7,7 @@
   </a>
 
 <div align="center">
-  <img src="https://github.com/AkbarIlham20st/AkbarIlham20st/blob/main/assets/gumba2.gif" width="200" height="200" alt="Gumba Animation"/>
+  <img src="https://github.com/AkbarIlham20st/AkbarIlham20st/blob/main/assets/gumba2.gif" width="100%" alt="Gumba Animation"/>
 </div>
 
 ## 🚀 About Me
