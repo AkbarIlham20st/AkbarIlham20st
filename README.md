@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://raw.githubusercontent.com/AkbarIlham20st/AkbarIlham20st/main/assets/poseidon-divider.svg" alt="Poseidon Divider" width="100%"/>
+</div>
+
+<div align="center">
 <h1>Hi there! I'm Akbar Ilham</h1>
 </div>
 
@@ -7,12 +11,6 @@
   <a href="https://spotify-github-profile.bear20th.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
   </a>
-</div>
-<div align="center">
-
----
-🔱 ～ 🧜‍♀️ ～ 🌊 ～ ✨ ～ 🐋 ～ 🔱 ～ 🧜‍♀️ ～ 🌊 ～ ✨ ～ 🐋 ～ 🔱 ～ 🧜‍♀️ ～ 🌊 ～ ✨ 
----
 </div>
 
 <div align="center">
@@ -102,5 +100,8 @@ I'm a passionate Mobile Developer,UI/UX Designer, and Junior Web Developer from 
   <img src="https://github.com/AkbarIlham20st/AkbarIlham20st/blob/main/assets/gumba.gif" width="150" height="150" alt="Goodbye Gumba"/>
 </div>
 
+</div>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/AkbarIlham20st/AkbarIlham20st/main/assets/poseidon-divider.svg" alt="Poseidon Divider" width="100%"/>
 </div>
