@@ -65,10 +65,6 @@ I'm a passionate Mobile Developer,UI/UX Designer, and Junior Web Developer from 
 
 </div>
 
-## 📈 Activity Graph
-
-![Activity Graph](https://github.com/AkbarIlham20st/AkbarIlham20st/blob/main/assets/activity-graph.png)
-
 ## 🎯 Featured Projects
 
 <div align="center">
