@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Akbar Ilham
 
-  <summary>🎶 Currently Listening</summary>
+🎶 Currently Listening
 
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
+  <a href="https://spotify-github-profile.bear20th.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
   </a>
 
