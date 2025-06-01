@@ -15,10 +15,6 @@ I'm a passionate Mobile Developer,UI/UX Designer, and Junior Web Developer from 
 
 ## 🛠️ Technologies & Tools
 
-<div align="center">
-  <img src="https://github.com/AkbarIlham20st/AkbarIlham20st/blob/main/assets/gumba.gif" width="100" height="100" alt="Tech Gumba"/>
-</div>
-
 ![Technologies](https://github.com/AkbarIlham20st/AkbarIlham20st/blob/main/assets/tech-stack.png)
 
 ### Programming Languages
