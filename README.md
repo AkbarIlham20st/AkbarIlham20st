@@ -21,7 +21,7 @@
 
 I'm a passionate Mobile Developer,UI/UX Designer, and Junior Web Developer from Indonesian.
 
-- 🌱 I'm currently learning **Advanced Flutter, Web Developer, and React**
+- 🌱 I'm currently learning **Advanced Flutter, Web Developer, and Database Development**
 - 💬 Ask me about **Flutter, UI/UX Design, or Mobile Development!**
 - 📫 How to reach me: **akbarilham1097@gmail.com**
 - ⚡ Motto: **Eat Mie Ayam if u got depressed with ur problem.**
