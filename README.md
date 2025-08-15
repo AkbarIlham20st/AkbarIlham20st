@@ -75,6 +75,7 @@ I'm a passionate Mobile Developer,UI/UX Designer, and Junior Web Developer from 
 <div align="center">
 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=AkbarIlham20st&repo=HIBRITH&theme=radical&hide_border=true)](https://github.com/AkbarIlham20st/HIBRITH)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=AkbarIlham20st&repo=BRIQueue&theme=radical&hide_border=true)](https://github.com/AkbarIlham20st/BRIQueue)
 
 </div>
 
