@@ -62,7 +62,7 @@ I'm a passionate Mobile Developer,UI/UX Designer, and Junior Web Developer from 
 **Thanks for visiting my profile! 😊**
 
 <div align="center">
-  <img src="https://github.com/AkbarIlham20st/AkbarIlham20st/blob/main/assets/minji_bye.gif" width="100%" alt="Goodbye Gumba"/>
+  <img src="https://github.com/AkbarIlham20st/AkbarIlham20st/blob/main/assets/gumbay.gif" width="100%" alt="Goodbye Gumba"/>
 </div>
 
 </div>
