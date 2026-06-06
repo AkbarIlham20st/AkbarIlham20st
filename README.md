@@ -2,10 +2,6 @@
 <img src="https://raw.githubusercontent.com/AkbarIlham20st/AkbarIlham20st/main/assets/divider/poseidon-divider.svg" alt="Poseidon Divider" width="100%"/>
 </div>
 
-<div align="center">
-<h2>Welcome, Akbar is here</h2>
-</div>
-
 🎶 Currently Listening
 <div align="center"
   <a href="https://spotify-github-profile.bear20th.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
